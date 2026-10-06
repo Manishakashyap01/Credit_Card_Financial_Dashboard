@@ -1,8 +1,8 @@
-# Credit Card Financial Dashboard
+Credit Card Financial Dashboard
 
 An end-to-end Power BI project that analyzes a year of credit card transactions (2023) and turns them into weekly, customer and transaction dashboards.
 
-## Objective
+Objective
 
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
@@ -19,6 +19,19 @@ Key Insights
 - Overall activation rate is 57.5%
 - Overall delinquent rate is 6.06%
 - Week 53 (31st Dec): revenue increased 28.8% week over week (933,134 to 1,201,601)
+
+Customers
+- Male: 31M, Female: 26M
+- Businessman: 17.7M, White-collar: 10.3M
+
+Geography
+- TX, NY, CA: 68% of revenue
+
+- Behavior
+- Swipe: 36M, Online: 4M
+- Activation rate: 57.5%
+- Delinquent rate: 6.06%
+- Week 53: +28.8% revenue WoW
 
  Recommendations
 
