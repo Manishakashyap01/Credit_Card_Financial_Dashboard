@@ -27,7 +27,7 @@ Customers
 Geography
 - TX, NY, CA: 68% of revenue
 
-- Behavior
+Behavior
 - Swipe: 36M, Online: 4M
 - Activation rate: 57.5%
 - Delinquent rate: 6.06%
