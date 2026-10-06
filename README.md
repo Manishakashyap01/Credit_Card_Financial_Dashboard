@@ -3,6 +3,7 @@ Credit Card Financial Dashboard
 An end-to-end Power BI project that analyzes a year of credit card transactions (2023) and turns them into weekly, customer and transaction dashboards.
 
 Objective
+
 To simulate a real-world dashboard scenario and practice generating actionable insights using Power BI by analyzing credit card transactions from 2023, focusing on weekly trends, customer behavior, and financial performance.
 
 
